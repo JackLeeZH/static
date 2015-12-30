@@ -1,0 +1,23 @@
+{
+  "name": "areas.js",
+  "filename": "areas.js",
+  "version": "1.0",
+  "description": "中国地区级联控制的JavaScript文件",
+  "homepage": "",
+  "keywords": [
+    "typo", "js"
+  ],
+  "maintainers": [
+    {
+      "name": "Jack Lee",
+      "mail": "545762152@qq.com",
+      "web": ""
+    }
+  ],
+  "repositories": [
+    {   
+      "type": "git",
+      "url": "https://github.com/chinaAreas/areas.js"
+    }
+  ]
+}
